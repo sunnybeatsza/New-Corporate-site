@@ -1,1 +1,1 @@
-document.getElementById("Service-items").innerHTML = 'Professor Snape';
+let serviceImg = document.getElementById("Service-items");
